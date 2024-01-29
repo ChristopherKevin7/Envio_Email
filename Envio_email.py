@@ -32,9 +32,9 @@ print(ticket_medio)
 
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-email = 'christopherkevin78@gmail.com'
-senha = 'rnga abtr bdjx naxh'
-Destinatario = 'christopherkevin78@gmail.com'
+email = 'exemplo78@gmail.com'
+senha = 'senha'
+Destinatario = 'Destinatario@gmail.com'
 Assunto = 'Relatório de vendas por loja'
 email_corpo = f'''
 <p>Prezados,</p>
